@@ -1,9 +1,6 @@
 .format-edges {
 margin: 100px;
-display: block;
-/* position: absolute;
-  top:40px;
-  right:40px; */
+display: inline;
 }
 img {
  
@@ -45,6 +42,4 @@ canvas{
   left:0;
   top:0;
   z-index:-1;
-  background: #000000;
-  background-color: #000000;
 }

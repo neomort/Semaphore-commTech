@@ -1,9 +1,6 @@
 .format-edges {
 margin: 100px;
-display: block;
-/* position: absolute;
-  top:40px;
-  right:40px; */
+display: inline;
 }
 img {
  
