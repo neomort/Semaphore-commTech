@@ -1,5 +1,8 @@
 .format-edges {
+
+margin: 150px;
 display: block;
+  
 }
 
 
@@ -10,10 +13,7 @@ h2 {
   font-size: 120px;
 }
 
-body {
-  margin-top: 150px;
-  margin-left: 150px;
-  margin-right: 150px;
+.body-background {
   background: #000000;
   background-color: #000000;
 }

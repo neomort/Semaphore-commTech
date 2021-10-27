@@ -1,0 +1,53 @@
+.format-edges {
+margin: 100px;
+position: absolute;
+  top:40px;
+  
+}
+
+.frame {
+  width: 100%;
+}
+img {
+ 
+
+  width: 300px;
+}
+
+a {
+
+  display:block;
+
+}
+
+.image {
+
+  width: 300px;
+}
+
+.right {
+  position: absolute;
+  top:40px;
+  right:40px;
+  text-align: right;
+}
+
+h2 {
+  font-family: fantasy;
+  color: #222222;
+  font-size: 120px;
+}
+
+body {
+  background: #000000;
+  background-color: #000000;
+}
+
+canvas{
+  position:absolute;
+  left:0;
+  top:0;
+  z-index:-1;
+  background: #000000;
+  background-color: #000000;
+}
