@@ -1,5 +1,5 @@
 .format-edges {
-margin: 100px;
+margin: 30px;
 }
 img {
  
@@ -35,9 +35,7 @@ body {
 	background: #000;
 }
 
-canvas{
-  position:absolute;
-  left:0;
-  top:0;
-  z-index:-1;
+canvas {
+	cursor: crosshair;
+	display: inline-flex;
 }
